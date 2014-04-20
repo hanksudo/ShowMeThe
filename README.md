@@ -1,4 +1,4 @@
-ShowMeThat
+ShowMeThe
 =========
 
 When I was a kid, I played Starcraft, and I know a command can get free minerals called 'show me the moeny', so that's why I named it.
