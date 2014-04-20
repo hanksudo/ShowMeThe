@@ -14,9 +14,10 @@ So I want to do a convience tool that what I can do like this in terminal:
 
 ```
 $ showmethe lottery
-$ showmethe rate TWD
+$ showmethe rate TWD in USD
 $ showmethe stock APPL
 $ showmethe weather Taipei
+$ showmethe weather Taipei | pbcopy
 ```
 
 And next step, hope to give it a way to export to a file or mail, or other service, like APNs to my phone. or a RESTful API for my service.
