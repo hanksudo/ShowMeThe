@@ -17,7 +17,8 @@ $ showmethe lottery
 $ showmethe rate TWD in USD
 $ showmethe stock APPL
 $ showmethe weather Taipei
-$ showmethe weather Taipei | pbcopy
+$ showmethe weather Taipei | pbcopy # copy result to pasteboard
+$ showmethe wiki Taiwan # wiki page
 ```
 
 And next step, hope to give it a way to export to a file or mail, or other service, like APNs to my phone. or a RESTful API for my service.
